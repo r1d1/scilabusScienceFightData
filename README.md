@@ -16,11 +16,11 @@ python plot\_episode.py --path *dataFolder* --output *pathToPdfFiguresFolder*
 
 example :
 
-'''
-
+```
 python plot\_episode.py --path Straightjump\_ballData --output generatedFigures/Straightjump\_ballData
 
-'''
+```
+
 ---
 
 Version python du code pour l'épisode sur la force des coups au Taekwondo (voir lien plus haut)
