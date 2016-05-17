@@ -2,6 +2,7 @@
  
 import numpy as np
 import csv
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import palettable
