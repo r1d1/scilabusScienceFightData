@@ -17,7 +17,7 @@ python plot\_episode.py --path *dataFolder* --output *pathToPdfFiguresFolder*
 example :
 
 ```
-python plot\_episode.py --path Straightjump\_ballData --output generatedFigures/Straightjump\_ballData
+python plot_episode.py --path Straightjump_ballData --output generatedFigures/Straightjump_ballData
 
 ```
 
