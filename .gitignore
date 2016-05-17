@@ -1,2 +1,3 @@
-# Ignore all mat files :
+# Ignore all matlab files :
 *.mat
+*.m
